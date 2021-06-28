@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+.wrapper {
+    width:auto;
+}
+
+header {
+    width:auto;
+    float:none;
+    padding-right: 0;
+    position:static;
+}
+
+section {
+    width:auto;
+    float:none;
+    border: 1px solid #e5e5e5;
+    border-width: 1px 0;
+    padding-top: 50px;
+}
